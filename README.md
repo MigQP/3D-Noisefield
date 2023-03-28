@@ -1,9 +1,5 @@
 # 3D Noise Audio Visualization
-Project made with Unity 2020.1.0f1.
-
-### The Less I Know The Better - Tame Impala
-[![The Less I Know The Better - Tame Impala](https://img.youtube.com/vi/3fVmsw6Nvsw/0.jpg)](https://www.youtube.com/watch?v=3fVmsw6Nvsw)
-
+Project made with Unity 2021.3.16f1.
 
 ### For more guidance on how this works, check out parts 1-4 of PeerPlay's Noise Flowfield tutorial
 [![PeerPlay Tutorial](https://img.youtube.com/vi/gPNdnIMbe8o/0.jpg)](https://youtu.be/gPNdnIMbe8o)
