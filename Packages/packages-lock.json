@@ -5,11 +5,12 @@
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.unity.inputsystem": "1.4.4",
-        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-        "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts"
+        "com.unity.inputsystem": "1.5.0",
+        "com.unity.nuget.newtonsoft-json": "3.0.0",
+        "com.cysharp.unitask": "2.3.3",
+        "com.neuecc.unirx": "7.1.0"
       },
-      "hash": "d20d5e5a0e3bc4c5905921f4152f83c4dc9ad601"
+      "hash": "7330838b5747c1465010fa6c8e06aa3fdb6b77d4"
     },
     "com.cysharp.unitask": {
       "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
@@ -97,8 +98,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.4.4",
-      "depth": 0,
+      "version": "1.5.0",
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.uielements": "1.0.0"
@@ -107,7 +108,7 @@
     },
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.0.2",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
