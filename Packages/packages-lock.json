@@ -6,11 +6,11 @@
       "source": "git",
       "dependencies": {
         "com.unity.inputsystem": "1.5.0",
-        "com.unity.nuget.newtonsoft-json": "3.0.0",
+        "com.unity.nuget.newtonsoft-json": "1.0.0",
         "com.cysharp.unitask": "2.3.3",
         "com.neuecc.unirx": "7.1.0"
       },
-      "hash": "7330838b5747c1465010fa6c8e06aa3fdb6b77d4"
+      "hash": "62b916335874ffaa37deb9678bd663229d13618b"
     },
     "com.cysharp.unitask": {
       "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
